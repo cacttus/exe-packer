@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.cpp
+c:\users\john\desktop\compressor\testexe\main.cpp(43): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\john\desktop\compressor\testexe\main.cpp(143): warning C4244: 'initializing': conversion from 'std::streamoff' to '::size_t', possible loss of data
+  TestExe.vcxproj -> C:\Users\John\Desktop\Compressor\TestExe\../bin\TestExe.exe
+  TestExe.vcxproj -> ../bin\TestExe.pdb (Partial PDB)

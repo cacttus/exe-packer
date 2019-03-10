@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartWorkingDirectory>
+    </StartWorkingDirectory>
+    <StartArguments>-p "c:\git\dev\cw\bin\Conga_x64_d.exe" -o "c:\git\dev\cw\bin\dist" -r "c:\git\dev\cw\bin\data-dc" -e "png,ogg,cs,ps,vs,sh,mobin,mob,dat,ttf" -x "c:\git\dev\cw\bin\data-dc\cache" -x "c:\git\dev\cw\bin\data-dc\dev" -x "c:\git\dev\cw\bin\data-dc\mob\bp_backup"</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <StartArguments>-p "c:\git\dev\cw\bin\Conga_x64_d.exe" -o "c:\git\dev\cw\bin\dist" -r "c:\git\dev\cw\bin\data-dc" -e "png,ogg,cs,ps,vs,sh,mobin,mob,dat,ttf" -x "c:\git\dev\cw\bin\data-dc\cache" -x "c:\git\dev\cw\bin\data-dc\dev" -x "c:\git\dev\cw\bin\data-dc\mob\bp_backup"</StartArguments>
+  </PropertyGroup>
+</Project>

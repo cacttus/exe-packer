@@ -1,0 +1,5 @@
+C:\git\dev\utils\Compressor\Compressor\bin\Release\Compressor.exe.config
+C:\git\dev\utils\Compressor\Compressor\bin\Release\Compressor.exe
+C:\git\dev\utils\Compressor\Compressor\bin\Release\Compressor.pdb
+C:\git\dev\utils\Compressor\Compressor\obj\Release\Compressor.exe
+C:\git\dev\utils\Compressor\Compressor\obj\Release\Compressor.pdb

@@ -1,0 +1,12 @@
+C:\Users\John\Desktop\Compressor\bin\Compressor.exe.config
+C:\Users\John\Desktop\Compressor\bin\Compressor.exe
+C:\Users\John\Desktop\Compressor\bin\Compressor.pdb
+C:\Users\John\Desktop\Compressor\Compressor\obj\Debug\Compressor.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\Compressor\Compressor\obj\Debug\Compressor.exe
+C:\Users\John\Desktop\Compressor\Compressor\obj\Debug\Compressor.pdb
+C:\git\dev\utils\Compressor\bin\Compressor.exe.config
+C:\git\dev\utils\Compressor\bin\Compressor.exe
+C:\git\dev\utils\Compressor\bin\Compressor.pdb
+C:\git\dev\utils\Compressor\Compressor\obj\Debug\Compressor.csprojResolveAssemblyReference.cache
+C:\git\dev\utils\Compressor\Compressor\obj\Debug\Compressor.exe
+C:\git\dev\utils\Compressor\Compressor\obj\Debug\Compressor.pdb

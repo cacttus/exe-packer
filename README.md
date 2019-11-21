@@ -1,5 +1,5 @@
 # exe-packer
-Written with Java's Launch4J in mind. Exe Packer adds files to the end of the EXE, and a simple interface to load those files in your app.  
+Written with Java's Launch4J in mind, Exe Packer adds files to the end of the EXE, and a simple interface to load those files in your app.  
 Essentially it allows you to compress your whole game into one file, sort of like how the compact Minecraft exe used to work.
 
 ## Instructions
